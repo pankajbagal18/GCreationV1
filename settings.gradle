@@ -1,0 +1,2 @@
+rootProject.name='GCreationV1'
+include ':app'
