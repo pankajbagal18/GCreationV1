@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "195545235462",
+    "firebase_url": "https://gcreationv1.firebaseio.com",
+    "project_id": "gcreationv1",
+    "storage_bucket": "gcreationv1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195545235462:android:8b383eb9d789bd4b39c387",
+        "android_client_info": {
+          "package_name": "com.dev.pankaj.gcreationv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195545235462-t0e806gs6sbkarfu0qq6ho4gviqku7j2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHHRR7iW2f2-rJhlIRzmoN2DOt-tYoXMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195545235462-t0e806gs6sbkarfu0qq6ho4gviqku7j2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
