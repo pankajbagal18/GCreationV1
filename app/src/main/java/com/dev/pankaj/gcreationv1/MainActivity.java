@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         {
             Toast.makeText(this,"Please signin",Toast.LENGTH_LONG).show();
             startActivity(new Intent(this,AuthenticateUser.class));
+            finish();
         }
         else
         {

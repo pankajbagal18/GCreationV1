@@ -17,51 +17,51 @@
         android:id="@+id/dob"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Enter name"
+        android:hint="Enter dob"
         android:inputType="date"
         android:padding="8dp"/>
     <EditText
         android:id="@+id/dobTime"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Enter name"
+        android:hint="Enter dob time"
         android:inputType="time"
         android:padding="8dp"/>
     <EditText
         android:id="@+id/birthPlace"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Enter name"
+        android:hint="Enter birth place"
         android:padding="8dp"/>
     <EditText
         android:id="@+id/city"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Enter name"
+        android:hint="Enter city"
         android:padding="8dp"/>
     <EditText
         android:id="@+id/qualification"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Enter name"
+        android:hint="Enter qualification"
         android:padding="8dp"/>
     <EditText
         android:id="@+id/gotra"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Enter name"
+        android:hint="Enter gotra"
         android:padding="8dp"/>
     <EditText
         android:id="@+id/occupation"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Enter name"
+        android:hint="Enter occupation"
         android:padding="8dp"/>
     <EditText
         android:id="@+id/mobile_no"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Enter name"
+        android:hint="Enter phone number"
         android:inputType="phone"
         android:padding="8dp"/>
 
