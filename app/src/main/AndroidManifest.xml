@@ -13,7 +13,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Navigation_Drawer"></activity>
+        <activity android:name=".ShowSelectedProfile"></activity>
+        <activity android:name=".AddProfile" />
+        <activity android:name=".Navigation_Drawer" />
         <activity android:name=".AuthenticateUser" />
         <activity android:name=".IntroSlider" />
         <activity
@@ -25,8 +27,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity"
-            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
 </manifest>

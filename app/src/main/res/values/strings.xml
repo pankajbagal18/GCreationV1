@@ -13,6 +13,8 @@
     <string name="menu_slideshow">Slideshow</string>
 
     <string name="home_second">Home Second</string>
+
     <style name="navigation_drawer_open">Open navigation drawer</style>
+
     <style name="navigation_drawer_close">Close navigation drawer</style>
 </resources>

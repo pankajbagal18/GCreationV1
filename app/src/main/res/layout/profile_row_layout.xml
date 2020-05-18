@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+<ImageView
+    android:id="@+id/row_image"
+    android:layout_rowSpan="2"
+    android:layout_width="80dp"
+    android:layout_height="70dp"
+    android:src="@drawable/ic_launcher"
+    android:layout_row="0"
+    android:layout_column="0"
+    />
+    <TextView
+        android:id="@+id/row_name"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="Name"
+        android:layout_row="0"
+        android:layout_column="1"/>
+    <TextView
+        android:id="@+id/row_mobile_no"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="Mobile No"
+        android:layout_row="1"
+        android:layout_column="1"/>
+
+</GridLayout>
